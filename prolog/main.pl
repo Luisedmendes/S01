@@ -1,4 +1,3 @@
-#Banco de dados
 
 % fatos
 resultado(joao, 8).
